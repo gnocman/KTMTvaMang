@@ -1,0 +1,8 @@
+header .logo {
+  height: 48px !important;
+}
+
+main {
+  min-height: 88vh;
+}
+
